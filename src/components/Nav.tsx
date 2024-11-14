@@ -29,7 +29,7 @@ const Nav = () => {
           <a href="/"> Home </a>
         </li>
         <li style={styles.li}>
-          <a href="/SavedCandidates"> Possible Candidates </a>
+          <a href="/SavedCandidates"> Potential Candidates </a>
         </li>
       </ul>
     </nav>

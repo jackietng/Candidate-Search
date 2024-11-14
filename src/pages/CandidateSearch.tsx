@@ -74,7 +74,7 @@ const CandidateSearch = () => {
       textAlign: "center", 
       width: "100%", 
       fontSize: "2rem", 
-      color: "blue"
+      color: "white"
     }
   }
 
