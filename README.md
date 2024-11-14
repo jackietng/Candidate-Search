@@ -32,4 +32,4 @@ export default {
 * Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
 
 ---
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.# Candidate Search 
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
